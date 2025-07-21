@@ -7,14 +7,13 @@ I'm an aspiring data analyst with a passion for visual storytelling, clean data,
 ## 📊 Featured Project
 
 ### 🏡 U.S. Housing Market Dashboard  
-> Built for True Build LLC | [View Project → GitHub Link](https://github.com/YOURUSERNAME/housing-market-dashboard)
-
+> Built for True Build LLC | https://public.tableau.com/app/profile/jacob.farr4770/viz/MetroHousingTrendsZillowData20082025/U_S_HousingMarketDashboard
 - Cleaned Zillow housing data using Python (Google Colab)
 - Created an interactive Tableau dashboard with map, KPIs, and trend analysis
 - Includes metrics like median sale price, list price, days on market, and more
 - Final dashboard published on Tableau Public
 
-📄 [View documentation → Word file in repo](https://github.com/YOURUSERNAME/housing-market-dashboard/blob/main/Housing_Dashboard_Documentation.docx)
+📄 [View documentation → Word file in repo](https://github.com/jacobfarr91/
 
 🧠 Business value: Helps real estate companies evaluate demand and time construction accordingly
 
@@ -39,5 +38,5 @@ I'm an aspiring data analyst with a passion for visual storytelling, clean data,
 
 ## 📬 Let's Connect
 
-- 📧 Email: your@email.com
-- 🔗 [LinkedIn → your profile](https://linkedin.com/in/yourname)
+- 📧 Email: jacobfarr0691@gmail.com
+- 🔗 [LinkedIn → your profile]([https://linkedin.com/in/yourname](https://public.tableau.com/app/profile/jacob.farr4770/viz/MetroHousingTrendsZillowData20082025/U_S_HousingMarketDashboard))
