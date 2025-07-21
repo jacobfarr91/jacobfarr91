@@ -39,4 +39,4 @@ I'm an aspiring data analyst with a passion for visual storytelling, clean data,
 ## 📬 Let's Connect
 
 - 📧 Email: jacobfarr0691@gmail.com
-- 🔗 LinkedIn ([www.linkedin.com/in/jacob-farr-382a5326a])
+- 🔗 LinkedIn www.linkedin.com/in/jacob-farr-382a5326a
