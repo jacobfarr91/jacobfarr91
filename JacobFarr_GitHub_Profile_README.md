@@ -39,4 +39,4 @@ I'm an aspiring data analyst with a passion for visual storytelling, clean data,
 ## 📬 Let's Connect
 
 - 📧 Email: jacobfarr0691@gmail.com
-- 🔗 LinkedIn ([https://linkedin.com/in/yourname](https://public.tableau.com/app/profile/jacob.farr4770/viz/MetroHousingTrendsZillowData20082025/U_S_HousingMarketDashboard))
+- 🔗 LinkedIn ([www.linkedin.com/in/jacob-farr-382a5326a])
